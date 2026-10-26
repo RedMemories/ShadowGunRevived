@@ -15,9 +15,9 @@ SHADOWGUN is a Unity game, and its engine and all of its game code were built on
 Once it was running:
 
 - full screen on today's tall displays, at the full resolution of the screen, with the menu backgrounds widened to fill the wider screen
-- the highest graphics quality the game has, plus 4x anti-aliasing on Snapdragon phones and 32-bit color instead of 16-bit
+- the highest graphics quality the game has on powerful phones, plus 4x anti-aliasing on Snapdragon phones and 32-bit color instead of 16-bit; a GRAPHICS button in the main menu and in the pause menu lets you pick AUTO, LOW, MEDIUM, HIGH or MAX if your phone can't hold 60 fps
 - runs smoothly at 60 fps
-- works fully offline: no Google Play login, no analytics, no advertising ID, no Internet permission, and the game doesn't ask for any permission
+- works fully offline: no Google Play login, no analytics, no advertising ID, and the game doesn't ask for any permission. The only thing that goes online is a check for new releases on this page, at most once a day, with no personal data; when there's a new version, the main menu tells you
 - today's controllers work out of the box (I tested an Xbox controller), with START to pause
 - the game data is packed inside the APK, so there's nothing to download separately
 
